@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="93" height="34" viewBox="0 0 93 34">
+  <g id="Group_148" data-name="Group 148" transform="translate(2525.667 -462.918)">
+    <g id="Group_25" data-name="Group 25" transform="translate(-2525.667 463)">
+      <path id="Exclusion_1" data-name="Exclusion 1" d="M89,30H0V0H89V30ZM2.987,3.243V26.959H86.013V3.243Z" transform="translate(0 -0.082)" fill="#005d6b"/>
+      <path id="Subtraction_1" data-name="Subtraction 1" d="M89,30H0V23.962H2.986v3H86.014V3.243H83.258V0H89V30Z" transform="translate(4 3.918)" fill="#005d6b"/>
+      <path id="path172" d="M208.264,45.9a9.158,9.158,0,1,1-9.158,9.158A9.158,9.158,0,0,1,208.264,45.9Zm0,4.317a4.841,4.841,0,1,1-4.841,4.841A4.841,4.841,0,0,1,208.264,50.219Z" transform="translate(-134.409 -40.517)" fill="#005d6b" fill-rule="evenodd"/>
+      <path id="path176" d="M167.846,55.652c0,6.918-4.707,9.2-9.731,9.182l-5.4-.023V46.866c6.518,0,15.129-1.26,15.129,8.787Zm-4.294.068c0,5.489-3.837,5.316-6.6,5.316V50.619C159.794,50.619,163.552,49.888,163.552,55.72Z" transform="translate(-104.293 -41.113)" fill="#005d6b" fill-rule="evenodd"/>
+      <path id="path178" d="M131.978,47.284V64.721h4.063V47.284Z" transform="translate(-90.843 -41.417)" fill="#005d6b" fill-rule="evenodd"/>
+      <path id="path180" d="M82.093,47.284h4.063l0,9.206c0,2.753.867,4.715,3.22,4.715,2.143,0,3.052-1.851,3.051-4.454l0-9.466h4.063L96.526,57.6c.018,4.281-2.006,7.828-7.323,7.828-5.4,0-7.135-3.655-7.128-7.973Z" transform="translate(-58.479 -41.417)" fill="#005d6b" fill-rule="evenodd"/>
+      <path id="path182" d="M39.073,45.9a9.132,9.132,0,0,1,6.978,3.227L43.6,51.964a9.183,9.183,0,0,0-4.53-1.936,5.032,5.032,0,0,0,0,10.065c.394,0,3.019-.052,3.029-1.049v-2H38v-3.63h8.067v7.561A9.158,9.158,0,1,1,39.073,45.9Z" transform="translate(-24.652 -40.521)" fill="#005d6b" fill-rule="evenodd"/>
+      <path id="path172-2" data-name="path172" d="M201.147,45.9a2.042,2.042,0,1,1-2.042,2.042A2.042,2.042,0,0,1,201.147,45.9Z" transform="translate(-127.125 -33.57)" fill="#e40428" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
